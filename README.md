@@ -29,3 +29,5 @@ Privacy information can be found at https://privacy.microsoft.com/en-us/
 
 Microsoft and any contributors reserve all other rights, whether under their respective copyrights, patents,
 or trademarks, whether by implication, estoppel or otherwise.
+
+[![Board Status](https://dev.azure.com/message4wale/451e67a9-6dd5-4fc9-a1cd-5cbf87bb04e1/8f13fc26-dd6c-4815-9dbd-4138ce2c2abf/_apis/work/boardbadge/7789b450-1ea1-43f3-8e4c-7d2ac8c27e5f)](https://dev.azure.com/message4wale/451e67a9-6dd5-4fc9-a1cd-5cbf87bb04e1/_boards/board/t/8f13fc26-dd6c-4815-9dbd-4138ce2c2abf/Microsoft.RequirementCategory/)
